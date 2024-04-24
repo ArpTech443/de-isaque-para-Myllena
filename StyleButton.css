@@ -1,0 +1,17 @@
+#playButton {
+    background-color: #E91E63; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: none; /* Inicialmente oculto */
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+#playButton:hover {
+    background-color: #a71546; /* Darker Green */
+}
