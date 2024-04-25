@@ -13,7 +13,7 @@ function carregarFraseAleatoria(frases) {
 }
 
 // Carrega todas as frases uma vez e as mantém em memória para evitar recarregar o JSON
-fetch('frases.json')
+fetch('https://mensagem-de-amor.github.io/de-isaque-para-Myllena/frases.json')
     .then(response => response.json())
     .then(frases => {
         // Carregar uma frase imediatamente

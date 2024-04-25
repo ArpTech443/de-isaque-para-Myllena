@@ -1,5 +1,5 @@
 #playButton {
-    background-color: #E91E63; /* Green */
+    background-color: #1e4de9; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -13,5 +13,5 @@
     transition-duration: 0.4s;
 }
 #playButton:hover {
-    background-color: #a71546; /* Darker Green */
+    background-color: rgb(21, 43, 167); /* Darker Green */
 }
